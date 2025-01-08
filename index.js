@@ -1,6 +1,4 @@
-// ==========================================================
-// =================== TUTORIAL 📖📽️ =================
-// ==========================================================
+
 let count = 0;
 const slides = document.querySelectorAll('.tutorial .slide');
 const prevBtn = document.querySelector('#prev');
